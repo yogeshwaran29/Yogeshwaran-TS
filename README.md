@@ -8,3 +8,5 @@
 - 🔀 Under a career transition from **DB and ETL Migrations** to **Data Engineer**
 
 - ⚡ built projects using **SQL, Python, Pyspark, AWS (S3,Lambda,Glue,Redshift & Athena), Azure ADLS, Azure Databricks**
+
+- 📩 reach out to me on **yogeshase2001@gmail.com**
